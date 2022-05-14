@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1014829638801",
+    "project_id": "sabka-bazar",
+    "storage_bucket": "sabka-bazar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014829638801:android:4184d22c89fcbf64f98b30",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014829638801-kpn9sj5n8ou2st22atrfiq1c6mom97rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Ngg15s7HddtpTsGxCjU6qDugowhKpXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014829638801-kpn9sj5n8ou2st22atrfiq1c6mom97rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
